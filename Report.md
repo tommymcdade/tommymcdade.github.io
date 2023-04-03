@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---
+
+
 # Summary Section
 In this assignment, I wanted to discover whether there is a correlation between sentiment of the text in a 10-k file and the stock returns. I want to discover if there is a correlation between returns and positive and negative sentiment. In addition to that, I want to discover the correlation in text related to the topics of covid, government regulation, and technology. 
 
