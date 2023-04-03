@@ -11,9 +11,9 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify sentiment](report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This report uses textual analysis to indetify sentiment in 10-k texts
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
