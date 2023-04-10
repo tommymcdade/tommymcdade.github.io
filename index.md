@@ -1,8 +1,7 @@
 ## About Me
 
-Hello this is me [] (link)
-
-I am an awesome student at Lehigh, you should hire me!
+Hello, I am Tommy McDade. I am a student at Lehigh University studying Finance and Business Analytics,
+I am very interested in furthering a career in combination of Finance and data analytics.
 
 
 ---
@@ -31,25 +30,18 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am interested in pursuing a career in the field of data analytics
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I am a fan of the Yankees and Giants, and enjoy rock climbing and listening to music in my free time
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
