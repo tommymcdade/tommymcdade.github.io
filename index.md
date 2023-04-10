@@ -14,7 +14,7 @@ _**[Natural language processing 10-Ks to identify sentiment](report.md)**_
 
 This report uses textual analysis to indetify sentiment in 10-k texts
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
@@ -22,13 +22,12 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
