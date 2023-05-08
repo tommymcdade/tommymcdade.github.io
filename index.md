@@ -10,7 +10,7 @@ I am very interested in furthering a career in combination of Finance and data a
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify sentiment](report.md)**_
+_**[Natural language processing 10-Ks to identify sentiment](Report.md)**_
 
 This report uses textual analysis to indetify sentiment in 10-k texts
 
