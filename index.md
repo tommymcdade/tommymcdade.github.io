@@ -26,7 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project]((https://github.com/Brooks377/SSLS_dashboard))**_
+_**[Eventual team project]([(https://github.com/Brooks377/SSLS_dashboard)](https://github.com/Brooks377/leftside_teamproject))**_
 
 
 
